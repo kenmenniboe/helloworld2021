@@ -4,3 +4,4 @@
 <h1> Good job Kendor on learning Devops</h1>
 <h1> I can't wait to start making the big devops $$$$$ </h1>
 <h1> Remember to always LIVE, LAUGH, AND LOVE !!!! </h1>
+<h1> I can't wait to start making the big devops $$$$$ and start sharing with family, friends, the needed, etc... </h1>
